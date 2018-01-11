@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\malte\.android\build-cache\27929558bfb0811d13c24525b86a52293134dca3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\malte\.android\build-cache\36286ca763ec6b9b0241e266115c7251ab78cfab\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\malte\.android\build-cache\d35a04a815a6521d7a9e179e43ef6d736abe94e5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\malte\.android\build-cache\d587f42e8b8f49a06c76cc8caa7a4c487e8492fe\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\malte\.android\build-cache\cf025edb9cfdfdd0498f9f5d96d1b441696132c2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\malte\.android\build-cache\746bbcea3b160842251864c4ec034f79f884aa29\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\malte\.android\build-cache\3cce51d00659f73bf0b7d5a156a540e3b71c501f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\malte\.android\build-cache\3aa035ea816ff0b29d1adb5219c6d61bc11db570\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\malte\.android\build-cache\b2277f5ad53946e6e1053b6a282f24df13926558\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\malte\.android\build-cache\dd6dbac60329a6f0aebfbdc84255e28776b53b19\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:13:9-40
+activity#net.initiativet.a62415_team8.MainActivity
+ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:18:27-74
+activity#net.initiativet.a62415_team8.ProposalActivity
+ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:21:9-23:72
+	android:label
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:23:13-60
+	android:name
+		ADDED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml:22:13-45
+uses-sdk
+INJECTED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\malte\.android\build-cache\27929558bfb0811d13c24525b86a52293134dca3\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\malte\.android\build-cache\36286ca763ec6b9b0241e266115c7251ab78cfab\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\malte\.android\build-cache\d35a04a815a6521d7a9e179e43ef6d736abe94e5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\malte\.android\build-cache\d587f42e8b8f49a06c76cc8caa7a4c487e8492fe\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\malte\.android\build-cache\7f91b1d10bf9596b2c2a02745dbd9203947f9fa7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\malte\.android\build-cache\cf025edb9cfdfdd0498f9f5d96d1b441696132c2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\malte\.android\build-cache\746bbcea3b160842251864c4ec034f79f884aa29\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\malte\.android\build-cache\3cce51d00659f73bf0b7d5a156a540e3b71c501f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\malte\.android\build-cache\3aa035ea816ff0b29d1adb5219c6d61bc11db570\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\malte\.android\build-cache\b2277f5ad53946e6e1053b6a282f24df13926558\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\malte\.android\build-cache\dd6dbac60329a6f0aebfbdc84255e28776b53b19\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\malte\.android\build-cache\27929558bfb0811d13c24525b86a52293134dca3\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\malte\AndroidStudioProjects\62415_team8\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\malte\.android\build-cache\27929558bfb0811d13c24525b86a52293134dca3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\malte\.android\build-cache\36286ca763ec6b9b0241e266115c7251ab78cfab\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\malte\.android\build-cache\d35a04a815a6521d7a9e179e43ef6d736abe94e5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\malte\.android\build-cache\7f91b1d10bf9596b2c2a02745dbd9203947f9fa7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\malte\.android\build-cache\cf025edb9cfdfdd0498f9f5d96d1b441696132c2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\malte\.android\build-cache\746bbcea3b160842251864c4ec034f79f884aa29\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\malte\.android\build-cache\3cce51d00659f73bf0b7d5a156a540e3b71c501f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\malte\.android\build-cache\3aa035ea816ff0b29d1adb5219c6d61bc11db570\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\malte\.android\build-cache\b2277f5ad53946e6e1053b6a282f24df13926558\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\malte\.android\build-cache\dd6dbac60329a6f0aebfbdc84255e28776b53b19\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\malte\.android\build-cache\27929558bfb0811d13c24525b86a52293134dca3\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\malte\.android\build-cache\27929558bfb0811d13c24525b86a52293134dca3\output\AndroidManifest.xml:26:9-47
